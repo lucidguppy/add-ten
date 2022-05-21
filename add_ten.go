@@ -1,5 +1,5 @@
 package add_ten
 
-func add_ten(a int) int {
+func Add_ten(a int) int {
 	return a + 10
 }
